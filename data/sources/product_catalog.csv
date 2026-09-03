@@ -1,0 +1,6 @@
+product_id,product_name,product_family,list_price
+101,Core Platform,Platform,1200.0
+102,Analytics Pro,Analytics,850.0
+103,Workflow Automation,Automation,1450.0
+104,Governance Suite,Governance,1100.0
+105,Data Connectors,Integration,600.0
