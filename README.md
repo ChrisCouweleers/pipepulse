@@ -1,6 +1,6 @@
 # PipePulse — ELT Operations & Observability
 
-PipePulse is a portfolio project that behaves like an internal data-engineering tool, not a SaaS marketing site. It runs a small ELT pipeline, writes operational metadata, executes data-quality checks, and exposes the results through an interactive Streamlit dashboard.
+PipePulse is a portfolio project that behaves like an internal data-engineering tool. It runs a small ELT pipeline, writes operational metadata, executes data-quality checks, and exposes the results through an interactive Streamlit dashboard.
 
 ## What it demonstrates
 
