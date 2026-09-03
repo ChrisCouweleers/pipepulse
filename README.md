@@ -2,6 +2,12 @@
 
 PipePulse is a portfolio project that behaves like an internal data-engineering tool. It runs a small ELT pipeline, writes operational metadata, executes data-quality checks, and exposes the results through an interactive Streamlit dashboard.
 
+## Live demo
+
+[Open PipePulse](https://pipepulse.streamlit.app/)
+
+The app runs on Streamlit Community Cloud and may take a moment to wake up and load on the first visit after a period of inactivity.
+
 ## What it demonstrates
 
 - Python ELT orchestration
