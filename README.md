@@ -90,7 +90,3 @@ For Windows PowerShell, the repository includes convenience scripts:
 .\scripts\run.ps1     # start Streamlit
 .\scripts\check.ps1   # run tests and a successful pipeline smoke test
 ```
-
-## Working with Codex
-
-`AGENTS.md` contains persistent project instructions for coding agents. It describes the architecture, test commands, portfolio/UI guardrails, and definition of done. `docs/NEXT_STEPS.md` is the prioritized backlog; implement items one coherent task at a time rather than treating it as a required feature list.
